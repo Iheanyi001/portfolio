@@ -18,12 +18,12 @@ function Testimonials(){
                         <blockquote>
                             <p>
                             Striving for excellence is a virtue. I have watched him 
-                            show grit at every stage of his work/learning in Olotu Square as a developer. 
+                            show grit at every stage of his work/learning in Ifactonews as a developer. 
                             He is currently the best around. He is highly recommended and guaranteed from me
                             </p>
                             <div>
-                                <h3 className="m-0">BRUCE LUCAS</h3>
-                                <span>CEO, Olotu Software Technologies</span>
+                                <h3 className="m-0">Joseph Okoro</h3>
+                                <span>CEO, Ifactonews</span>
                             </div>
                         </blockquote>
                         

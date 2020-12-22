@@ -17,9 +17,6 @@ function Main(){
 				<Testimonials/>
 				<Footer/>
 			</div>
-			
-
-
 		)
 		
 	}
