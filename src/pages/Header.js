@@ -47,12 +47,12 @@ function Header(){
                             I realized that every line of code is an opportunity to make a user’s experience better. 
                         </p>
                         <div className="socials-container">
-                            <span className="facebook"><i className="fa fa fa-github"></i></span>
-                            <span className="facebook"><i className="fa fa-linkedin"></i></span>
-                            <span className="facebook"><i className="fa fa-envelope"></i></span>
-                            <span className="facebook"><i className="fa fa-twitter"></i></span>
-                            <span className="facebook"><i className="fa fa-instagram"></i></span>
-                            <span className="facebook"><i className="fa fa-facebook"></i></span>   
+                            <a href="https://github.com/Iheanyi001" target="_blank" className="github"><i className="fa fa fa-github" target="_blank"></i></a>
+                            <a href="https://www.linkedin.com/in/iheanyi-uko-b966bb1aa/" target="_blank" className="linkedin"><i className="fa fa-linkedin" target="_blank"></i></a>
+                            <a href="mailto:ukoiheanyiking@gmail.com" className="" ><i className="fa fa-envelope"></i></a>
+                            <a href="https://twitter.com/WebAppDevelopa" className="twitter" target="_blank"><i className="fa fa-twitter"></i></a>
+                            <a href="https://www.instagram.com/ukoiheanyihero/" className="instagram" target="_blank"><i className="fa fa-instagram"></i></a>
+                            <a href="https://web.facebook.com/iheanyi.uko.5" className="facebook" target="_blank"><i className="fa fa-facebook"></i></a>   
                         </div>
                     </div>
                 </div>

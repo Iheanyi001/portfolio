@@ -39,7 +39,7 @@ function Portfolio(){
                         </div>
                 </div>
                 <div className="item-2">
-                <div className="port-img-container width-100-percent height-100-percent" >
+                <div className="port-img-container port-img-container-large width-100-percent height-100-percent" >
                             <div className="port-card height-100-percent relative">
                                 <img className="width-100-percent height-100-percent object-fit-cover" src={PortP} alt=""/>
                                 <div className="port-hover-details">
@@ -49,6 +49,9 @@ function Portfolio(){
                                         <span className="facebook">CSS</span>
                                         <span className="facebook">ReactJS</span>
                                     </div>
+                                    <span className="applink-container">
+                                        <a href="https://iportfolio.vercel.app/" target="_blank">See Project →</a>
+                                    </span>
                                     
                                 </div>
                                 <div className="app-name-container">
@@ -62,14 +65,16 @@ function Portfolio(){
                             <div className="port-card height-100-percent relative">
                                 <img className="width-100-percent height-100-percent" src={Ifactonews} alt=""/>
                                 <div className="port-hover-details">
-                                    <h3>ifactonews.com website for information sharing</h3>
+                                    <h3>ifactonews website for information sharing</h3>
                                     <div className="project-tools">
                                             <span className="facebook">CSS3</span>
                                             <span className="facebook">NextJs</span>
                                             <span className="facebook">MongoDB</span>
                                     
                                     </div>
-                                   
+                                        <span className="applink-container">
+                                            <a href="https://ifactonews.com/" target="_blank">See Project →</a>
+                                        </span>
                                     </div>
                                     <div className="app-name-container">
                                         <span className="app-name">Ifactonews App</span>
@@ -92,11 +97,11 @@ function Portfolio(){
                                     </div>
                                     <span className="applink-container">
                                         <i className="fa fa-lock text-white" aria-hidden="true"></i>
-                                        <a href="/">protected</a>
+                                        <a href="/">See Project →</a>
                                     </span>
                                     </div>
                                     <div className="app-name-container">
-                                        <span className="app-name">EaziziSchool App</span>
+                                        <span className="app-name">Eazizi School App</span>
                                     </div>
                             </div>
                         </div>
