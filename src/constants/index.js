@@ -177,27 +177,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Working with him was an absolute pleasure. His creativity and attention to detail brought our vision to life. The website he designed for us perfectly represents our brand and has received positive feedback from our clients",
+    name: "Oluchi Japhet",
+    designation: "CEO",
+    company: "Recharge-boss",
+    image: "../src/rb_test.png",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "We were impressed by the talent and professionalism of him. He took the time to understand our requirements and delivered a stunning website that exceeded our expectations.",
+    name: "Ogo Eze",
+    designation: "Manager",
+    company: "ELong Ltd",
+    image: "../src/elong_test.png",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "He possesses a deep understanding of React Native and was able to develop a robust and high-performing mobile application for our company",
+    name: "Chinedu",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Kiara Care",
+    image: "../src/kc_test.png",
   },
 ];
 
@@ -205,7 +205,7 @@ const projects = [
   {
     name: "RechargeBoss",
     description:
-      "Web-based platform that simplifies the process of recharging mobile airtime and data in Nigeria, offering a hassle-free experience for users seeking a convenient and reliable platform for their telecom needs.",
+      "A web base application that facilitates seamless transactions for recharges, bill payments, and data purchases, allowing users to store funds in their wallet. Users can access a detailed transaction history for recharges, bill payments, data purchases, and airtime transfers.",
     tags: [
       {
         name: "InertiaJs",
@@ -226,7 +226,7 @@ const projects = [
   {
     name: "ElongLtd",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "The web application empowers users to track their shipments, book online, obtain packaging guidelines, and access essential shipping documents like waybills, invoices, and customs forms for download.",
     tags: [
       {
         name: "inertiaJs",
@@ -247,7 +247,7 @@ const projects = [
   {
     name: "Iportfolio",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "This web application is a platform that showcases my work, achievements, and creative journey. It features a collection of my projects, skills, and experiences, emphasizing my distinctive approach and unwavering dedication to my craft.",
     tags: [
       {
         name: "react",
