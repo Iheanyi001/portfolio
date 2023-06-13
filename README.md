@@ -4,3 +4,5 @@
 ## Introduction
 Uko Iheanyi Portfolio
 
+Iheanyi is a Software Engineer from Nigeria
+
