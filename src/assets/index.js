@@ -37,7 +37,9 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 
-import oluchi from "./"
+import Oluchi from "../../src/rechargeboss_ceo.png"
+import Chinedu from "../../src/kiaracare_cto.png"
+import Ogo from "../../src/elong_manager.png"
 
 export {
   logo,
@@ -73,4 +75,7 @@ export {
   jobit,
   tripguide,
   laravel,
+  Ogo,
+  Oluchi,
+  Chinedu,
 };

@@ -25,6 +25,9 @@ import {
   laravel,
   kiaracare,
   ifactonews,
+  Ogo,
+  Oluchi,
+  Chinedu
 } from "../assets";
 
 export const navLinks = [
@@ -181,7 +184,7 @@ const testimonials = [
     name: "Oluchi Japhet",
     designation: "CEO",
     company: "Recharge-boss",
-    image: "../src/rb_test.png",
+    image: Oluchi,
   },
   {
     testimonial:
@@ -189,7 +192,7 @@ const testimonials = [
     name: "Ogo Eze",
     designation: "Manager",
     company: "ELong Ltd",
-    image: "../src/elong_test.png",
+    image: Ogo,
   },
   {
     testimonial:
@@ -197,7 +200,7 @@ const testimonials = [
     name: "Chinedu",
     designation: "CTO",
     company: "Kiara Care",
-    image: "../src/kc_test.png",
+    image: Chinedu,
   },
 ];
 
